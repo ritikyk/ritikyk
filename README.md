@@ -28,9 +28,9 @@
 <p><a href="https://www.buymeacoffee.com/meritikraj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="meritikraj" /></a></p><br><br>
 
 ## Discord:
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1202651568667885570)](https://discord.com/users/1202651568667885570)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1202651568667885570)](https://discord.com/users/713696347051655168)
    
 ## Github Stats:  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=code2ahm&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)</br>
+  ![Stats](https://github-readme-stats.vercel.app/api?username=ritikyk&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)</br>
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritikyk&theme=dark)</br>
   ![Contributions](https://github-contributor-stats.vercel.app/api?username=ritikyk&limit=3&theme=dark&combine_all_yearly_contributions=true)</br>
