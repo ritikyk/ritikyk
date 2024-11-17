@@ -1,9 +1,21 @@
 <h1 align="center">Heylo 👋, I'm Ritik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikyk&label=Profile%20views&color=0e75b6&style=flat" alt="ritikyk" /> </p>
+## Socials:
+<a href="https://instagram.com/ahmm.fr" target="_blank" rel="noopener noreferrer">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" height="30px" width="30px">
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/ahmuuy" target="_blank" rel="noopener noreferrer">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="Twitter" height="30px" width="30px">
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ahmar-yaseen-950b54324/" target="_blank" rel="noopener noreferrer">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" alt="LinkedIn" height="30px" width="30px">
+</a>
 
-<p align="left"> <a href="https://twitter.com/meritikraj" target="blank"><img src="https://img.shields.io/twitter/follow/meritikraj?logo=twitter&style=for-the-badge" alt="meritikraj" /></a> </p>
+## Profile visitors:
+  ![](https://profile-counter.glitch.me/ritik_fr/count.svg)
+
+## More Info:
 
 - 🔭 I’m currently working on **Ghosty Selfbot**
 
