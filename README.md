@@ -1,6 +1,16 @@
 <h1 align="center">Heylo 👋, I'm Ritik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+## Info:
+
+- 🔭 I’m currently working on **Ghosty Selfbot**
+
+- 🌱 I’m currently learning **Rust**
+
+- 💬 Ask me about **Web And Bots Dev**
+
+- 📫 How to reach me **ipsumcoder@gmail.com**
+  
 ## Socials:
 <a href="https://instagram.com/ahmm.fr" target="_blank" rel="noopener noreferrer">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" height="30px" width="30px">
@@ -14,16 +24,6 @@
 
 ## Profile visitors:
   ![](https://profile-counter.glitch.me/ritik_fr/count.svg)
-
-## More Info:
-
-- 🔭 I’m currently working on **Ghosty Selfbot**
-
-- 🌱 I’m currently learning **Rust**
-
-- 💬 Ask me about **Web And Bots Dev**
-
-- 📫 How to reach me **ipsumcoder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
